@@ -15,7 +15,6 @@ namespace SequenciaLimites
 
             Console.WriteLine(" * Insira dois números inteiros\n   e receba a sequência entre\n   eles.\n");
 
-
             Console.Write("Início...: ");
             realNumero1 = Int32.TryParse(Console.ReadLine(), out numero1);
 
