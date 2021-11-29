@@ -44,7 +44,6 @@ namespace SequenciaLimites
 
                 Console.WriteLine();
                 Console.WriteLine();
-
             }
             else
             {
